@@ -1,0 +1,23 @@
+{
+  "name": "revolt.generic.vertical-spacing",
+  "homepage": "https://github.com/revolt-framework/generic.vertical-spacing",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework's reset module",
+  "main": "_generic.vertical-spacing.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "reset"
+  ],
+  "dependencies": {
+    "revolt.settings.defaults": "0.x.x"
+  },
+  "license": "MIT"
+}
